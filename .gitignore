@@ -1,2 +1,4 @@
 .idea
+.yarn
+.yarnrc.yml
 node_modules
